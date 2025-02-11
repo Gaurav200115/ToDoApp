@@ -1,7 +1,7 @@
 📌 To-Do App - React Native
 A simple and efficient To-Do App built using React Native, featuring task management with AsyncStorage for local data persistence.
 
-🔹 Features:
+🔹 Features: 
 📌 Add Tasks – Users can enter tasks via a modal input.
 ✅ Mark Tasks as Completed – Toggle task status between completed and pending.
 ❌ Delete Tasks – Remove tasks permanently.
